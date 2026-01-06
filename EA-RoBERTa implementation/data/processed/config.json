@@ -1,0 +1,13 @@
+{
+  "model_name": "roberta-base",
+  "max_length": 128,
+  "batch_size": 16,
+  "random_state": 42,
+  "num_labels": 6,
+  "split_sizes": {
+    "train_original": 16000,
+    "train_oversampled": 32454,
+    "val": 2000,
+    "test": 2000
+  }
+}
