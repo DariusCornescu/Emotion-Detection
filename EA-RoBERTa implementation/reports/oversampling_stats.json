@@ -2,25 +2,25 @@
   "before": {
     "total": 16000,
     "distribution": {
-      "2": 5409,
-      "4": 4638,
-      "0": 2167,
-      "1": 1898,
-      "3": 1313,
-      "5": 575
+      "joy": 5362,
+      "sadness": 4666,
+      "anger": 2159,
+      "fear": 1937,
+      "love": 1304,
+      "surprise": 572
     }
   },
   "after": {
-    "total": 32454,
+    "total": 32172,
     "distribution": {
-      "fear": 5409,
-      "joy": 5409,
-      "sadness": 5409,
-      "love": 5409,
-      "anger": 5409,
-      "surprise": 5409
+      "sadness": 5362,
+      "anger": 5362,
+      "love": 5362,
+      "surprise": 5362,
+      "fear": 5362,
+      "joy": 5362
     }
   },
-  "increase": 16454,
-  "increase_pct": 102.8375
+  "increase": 16172,
+  "increase_pct": 101.08
 }

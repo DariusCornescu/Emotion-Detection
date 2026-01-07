@@ -1,0 +1,19 @@
+{
+  "label_to_id": {
+    "anger": 0,
+    "fear": 1,
+    "joy": 2,
+    "love": 3,
+    "sadness": 4,
+    "surprise": 5
+  },
+  "id_to_label": {
+    "0": "anger",
+    "1": "fear",
+    "2": "joy",
+    "3": "love",
+    "4": "sadness",
+    "5": "surprise"
+  },
+  "num_labels": 6
+}
